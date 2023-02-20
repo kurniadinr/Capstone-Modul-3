@@ -1,1 +1,2 @@
 # Capstone-Modul-3
+Capstone Modul 3 berisi tugas yang diberikan setelah materi modul 3 selesai. Pada capstone kali ini, saya mendapatkan tugas untuk menganalisa dan membuat model yang tepat dari dataset Bank Marketing Campaign. Berdasarkan dataset, sebuah Bank ingin membuat salah satu produknya, yaitu deposito berjangka menjadi lebih efektif dengan membuat kampanye pemasaran yang lebih efisien. Bermodalkan data pemasaran sebelumnya, Bank X ingin mengetahui nasabah mana yang kemungkinannya besar menempatkan uangnya pada produk deposito berjangka.
